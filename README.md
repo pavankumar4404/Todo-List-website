@@ -10,7 +10,7 @@ A complete todo application with all features.
 
 This project is a complete Todo Application with all features. It can perform all CRUD(Crate, Read, Update, Delete) operations. Utilizing `React.js` for building our user interface and `Redux` for state management. Additionally, incorporated simple animations using `Framer Motion`.
 
-## What We Are Going to Learn/Use
+## Tech Stack
 
 - [React](https://reactjs.org/)
 - [React Redux](https://redux.js.org/)
